@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/alexandergh132003/202301-w1ch2-Alexander-Guillen-diego-bermudez/issues"
   },
-  "homepage": "https://github.com/alexandergh132003/202301-w1ch2-Alexander-Guillen-diego-bermudez#readme"
+  "homepage": "https://github.com/alexandergh132003/202301-w1ch2-Alexander-Guillen-diego-bermudez#readme",
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
 }
