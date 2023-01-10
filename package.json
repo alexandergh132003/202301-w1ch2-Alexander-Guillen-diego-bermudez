@@ -2,7 +2,7 @@
   "name": "202301-w1ch2-alexander-guillen-diego-bermudez",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "prebuild:dev": "rimraf dist",
     "prebuild": "rimraf dist",
