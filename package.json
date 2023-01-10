@@ -1,0 +1,22 @@
+{
+  "name": "202301-w1ch2-alexander-guillen-diego-bermudez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild:dev": "rimraf dist",
+    "prebuild": "rimraf dist",
+    "build:dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandergh132003/202301-w1ch2-Alexander-Guillen-diego-bermudez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandergh132003/202301-w1ch2-Alexander-Guillen-diego-bermudez/issues"
+  },
+  "homepage": "https://github.com/alexandergh132003/202301-w1ch2-Alexander-Guillen-diego-bermudez#readme"
+}
